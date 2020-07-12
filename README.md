@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissa-dantas-8490baa1/)](https://www.linkedin.com/in/larissa-dantas-8490baa1/)
 
-I'm frontend developer i'm also graduated in Internet Systems at Unifacs [Laureate International Universities], i'm currently working in [CUBOS](https://cubos.io/).
+I'm a frontend developer i'm also graduated in Internet Systems at Unifacs [Laureate International Universities], i'm currently working in [CUBOS](https://cubos.io/).
 
 
 - 🔭 I’m currently working with **React** , **GraphQL**, **Typescript** | **Styled-Components** | **VanillaJS** ...
