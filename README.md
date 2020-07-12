@@ -1,4 +1,4 @@
-# Hi!, I'm Larissa Dantas <img src="./assets/larissa.gif" width="30px">
+# Hi!, I'm Larissa Dantas <img src="https://github.com/RikoKami/RikoKami/blob/master/assets/larissa.gif" width="30px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissa-dantas-8490baa1/)](https://www.linkedin.com/in/larissa-dantas-8490baa1/)
 
