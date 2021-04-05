@@ -6,7 +6,7 @@ I'm a frontend developer i'm also graduated in Internet Systems at Unifacs [Laur
 
 
 - 🔭 I’m currently working with **React** , **GraphQL**, **Typescript** | **Styled-Components** | **VanillaJS** ...
-- 🌱 I’m currently learning **Redux** | **Node.js** | **Express**
+- 🌱 I’m currently learning **Elixir** | **Node.js**
 - 🤔 I’m looking for help with **Testing Library**
 - 💬 Ask me about CSS 🎨🥰
 - 😄 Pronouns: She / Her
