@@ -5,7 +5,7 @@
 
 ## Detailed information
 - Name: Larissa Dantas
-- Age: 27
+- Age: 28
 - Living in: Salvador - BA, Brazil
 - Working at: [CUBOS](https://cubos.io/)
 - Stack: VanillaJS/Typescript - Node
