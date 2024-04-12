@@ -4,7 +4,7 @@
 
 
 ## Detailed information
-- Name: Larissa Dantas
+- Name: William Dantas
 - Age: 28
 - Living in: Salvador - BA, Brazil
 - Working at: [CUBOS](https://cubos.io/)
